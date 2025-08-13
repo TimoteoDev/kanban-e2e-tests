@@ -1,0 +1,15 @@
+{
+  "name": "teste-kanban",
+  "version": "1.0.0",
+  "description": "Testes E2E para o Kanban da vaga Tester Junior",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.3.0",
+    "cypress": "^13.7.3",
+    "cypress-drag-drop": "^1.1.1"
+  }
+}
