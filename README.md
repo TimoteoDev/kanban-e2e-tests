@@ -19,17 +19,6 @@ O objetivo é validar funcionalidades como:
 
 ---
 
-## Estrutura do Projeto
-.
-├── cypress/
-│ ├── e2e/ # Testes E2E
-│ ├── screenshots/ # Prints ou GIFs de testes (para README)
-│ └── support/ # Comandos customizados e configurações
-├── node_modules/ # Dependências (não subir no GitHub)
-├── .gitignore # Ignora arquivos desnecessários
-├── package.json # Configuração do Node e Cypress
-└── README.md # Este arquivo
-
 ---
 
 ## Como Rodar os Testes
